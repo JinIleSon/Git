@@ -1,0 +1,4 @@
+#excluded file
+sample.txt
+temp/
+*.log
